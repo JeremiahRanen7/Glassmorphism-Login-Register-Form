@@ -13,3 +13,6 @@ This is a simple login and register form created with HTML and CSS with the help
 ### Tools Used:
 HTML and CSS
 
+## Note:
+
+This is solely designed by myself.
